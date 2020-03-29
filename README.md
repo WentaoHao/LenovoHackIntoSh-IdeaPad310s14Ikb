@@ -18,7 +18,7 @@ If you hava a exactly same laptop(Lenovo_IdeaPad310s14Ikb)(It does not matter if
 
 WIFI: usb; airdrop is not useable(false);  
 BlueBooth: goes well(true);  
-Brightness: (false);  
+Brightness: (true);  
 Battery Status: true;  
 TouchPad Multi-Gesture: true;  
 Sleep/Wake: false.  
